@@ -44,7 +44,7 @@ export default function Home() {
           <div className="mt-[1em] mb-[1em]">
             <div className="flex align-middle mb-[1em]">
               <div>
-                  <Image src="/dashboard1.jpg" alt="" className="w-[30em] rounded-[10px] ml-0" width={200} height={200}/>
+                  <Image src="/dashboard1.jpg" alt="" className="w-[30rem] rounded-[10px] ml-0" width={200} height={200}/>
               </div>
                 <div className="ml-[1em] mt-[auto] mb-[auto]">
                     <h2 className="text-[20px] font-bold">Designing Dashboards</h2>
@@ -56,7 +56,7 @@ export default function Home() {
             <hr className="border-2 border-gray-500 mb-[1em]"></hr>
             <div className="flex align-middle mb-[1em]">
               <div>
-                  <Image src="/dashboard1.jpg" alt="" className="w-[30em] rounded-[10px] ml-0" width={200} height={200}/>
+                  <Image src="/dashboard1.jpg" alt="" className="w-[30rem] rounded-[10px] ml-0" width={200} height={200}/>
               </div>
                 <div className="ml-[1em] mt-[auto] mb-[auto]">
                     <h2 className="text-[20px] font-bold">Designing Dashboards</h2>
@@ -68,7 +68,7 @@ export default function Home() {
             <hr className="border-2 border-gray-500 mb-[1em]"></hr>
             <div className="flex align-middle mb-[1em]">
               <div>
-                  <Image src="/dashboard1.jpg" alt="" className="w-[30em] rounded-[10px] ml-0" width={200} height={200}/>
+                  <Image src="/dashboard1.jpg" alt="" className="w-[30rem] rounded-[10px] ml-0" width={200} height={200}/>
               </div>
                 <div className="ml-[1em] mt-[auto] mb-[auto]">
                     <h2 className="text-[20px] font-bold">Designing Dashboards</h2>
